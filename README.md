@@ -2,7 +2,6 @@
 
 Welcome to Magic Movie Recommender, an intelligent movie recommendation system built using Streamlit and powered by TF-IDF and cosine similarity! Discover movies you'll ❤️ based on your favorites!
 
----
 
 **Try it live**: https://movie-recom-priv.onrender.com/
 
@@ -96,6 +95,13 @@ The source code is **not included** in this public repository. The live version 
 ## ✨ Feedback
 
 Have suggestions or want to collaborate? Feel free to reach out via LinkedIn!
+
+## 🙌 Acknowledgments
+TMDB for the dataset
+
+Streamlit for the awesome web app framework
+
+
 
 
 
