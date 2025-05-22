@@ -71,16 +71,6 @@ Apply optional filters like genre and release year.
 ---
 
 
-## 🚀 How It Works
-
-1. **User inputs(or chooses from dropdown menu) a movie title**
-2. System finds the movie and fetches its metadata
-3. Similar movies are recommended based on cosine similarity
-4. The app displays similar movie dataset in a clean interface
-5. Apply filters on the recommended movies and get filtered content 
-
----
-
 ## 📌 Note
 
 The source code is **not included** in this public repository. The live version is accessible for demonstration and testing purposes.
